@@ -11,7 +11,7 @@
 </section>
 
 <!-- Bagian Rekomendasi Produk -->
-<section class="card-kelompok-3 card-wide-kelompok-3">
+<section class="card-kelompok-3 card-wide-kelompok-3" id="menu">
     <h2 class="section-title-kelompok-3">Rekomendasi Kami</h2>
     <p class="section-intro-kelompok-3">Tiga sajian pilihan untuk menemani hari Anda, dari seduhan house blend hingga
         pastry yang dipanggang segar.</p>
@@ -50,13 +50,11 @@
                 </p>
         </article>
     </div>
-    <p class="section-action-kelompok-3">
-        <a href="#" class="button-kelompok-3 button-dark-kelompok-3">Lihat Menu</a>
-    </p>
+    
 </section>
 
 <!-- Bagian Jam Operasional -->
-<section class="card-kelompok-3 card-wide-kelompok-3">
+<section class="card-kelompok-3 card-wide-kelompok-3" id="jam-operasional">
     <h2 class="section-title-kelompok-3">Jam Operasional</h2>
     <p class="jam-hari-kelompok-3">Setiap Hari</p>
     <p class="jam-waktu-kelompok-3">09.00 - 24.00</p>
@@ -101,7 +99,7 @@
 </section>
 
 <!-- Bagian Bagian Keuntungan Member -->
-<section class="card-kelompok-3 card-wide-kelompok-3">
+<section class="card-kelompok-3 card-wide-kelompok-3" id="member">
     <h2 class="section-title-kelompok-3">Keuntungan Member</h2>
     <p class="section-intro-kelompok-3">Jadi bagian dari Cerita Seduh dan nikmati manfaat setiap kali
         berkunjung. Tanyakan kepada barista kami untuk bergabung.

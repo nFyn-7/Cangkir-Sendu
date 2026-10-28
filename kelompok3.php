@@ -24,8 +24,8 @@
                 include __DIR__ . "/pages/menu_kelompok_3.php";
             } else if ($_GET['hal'] == "about-us") {
                 include __DIR__ . "/pages/about-us_kelompok_3.php";
-            } else if ($_GET['hal'] == "cart") {
-                include __DIR__ . "/pages/cart_kelompok_3.php";
+            } else if ($_GET['hal'] == "beli") {
+                include __DIR__ . "/pages/831_beli.php";
             } else if ($_GET['hal'] == "pembayaran") {
                 include __DIR__ . "/pages/pembayaran_kelompok_3.php";
             } else if ($_GET['hal'] == "member") {
