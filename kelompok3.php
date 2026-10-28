@@ -27,9 +27,9 @@
             } else if ($_GET['hal'] == "beli") {
                 include __DIR__ . "/pages/831_beli.php";
             } else if ($_GET['hal'] == "pembayaran") {
-                include __DIR__ . "/pages/pembayaran_kelompok_3.php";
+                include __DIR__ . "/pages/841_reservasi.php";
             } else if ($_GET['hal'] == "member") {
-                include __DIR__ . "/pages/member_kelompok_3.php";
+                include __DIR__ . "/pages/838_member.php";
             } else {
                 echo "halaman tidak ditemukan";
             }
