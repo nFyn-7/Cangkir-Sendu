@@ -17,9 +17,8 @@
         pastry yang dipanggang segar.</p>
     <div class="produk-grid-kelompok-3">
         <article class="produk-card-kelompok-3">
-            <img class="produk-foto-kelompok-3"
-                src="./assets/Guren.jpeg"
-                alt="Secangkir kopi hitam di atas meja marmer" width="600" height="450" loading="lazy" />
+            <img class="produk-foto-kelompok-3" src="./assets/Guren.jpeg" alt="Secangkir kopi hitam di atas meja marmer"
+                width="600" height="450" loading="lazy" />
             <div class="product-body-kelompok-3">
                 <h3>Iced Kospu Guren</h3>
                 <p>
@@ -28,8 +27,7 @@
                 </p>
         </article>
         <article class="produk-card-kelompok-3">
-            <img class="produk-foto-kelompok-3"
-                src="./assets/CreamCheese.jpeg"
+            <img class="produk-foto-kelompok-3" src="./assets/CreamCheese.jpeg"
                 alt="Secangkir kopi hitam di atas meja marmer" width="600" height="450" loading="lazy" />
             <div class="produk-body">
                 <h3>Iced Cheezy Latte</h3>
@@ -38,17 +36,16 @@
                 </p>
         </article>
         <article class="produk-card-kelompok-3">
-            <img class="produk-foto-kelompok-3"
-                src="./assets/magic.jpeg"
-                alt="Secangkir kopi hitam di atas meja marmer" width="600" height="450" loading="lazy" />
+            <img class="produk-foto-kelompok-3" src="./assets/magic.jpeg" alt="Secangkir kopi hitam di atas meja marmer"
+                width="600" height="450" loading="lazy" />
             <div class="product-body">
                 <h3>Magic Seasonal</h3>
                 <p>
-                    Paduan double ristretto dengan susu dan notes seasonal beans dari berbagai origin dan kisah yang menarik.
+                    Paduan double ristretto dengan susu dan notes seasonal beans dari berbagai origin dan kisah yang
+                    menarik.
                 </p>
         </article>
     </div>
-    
 </section>
 
 <!-- Bagian Jam Operasional -->
@@ -120,14 +117,16 @@
             <span class="keuntungan-ikon-kelompok-3">⭐</span>
             <div>
                 <h3>Suprise Bonus</h3>
-                <p>Member berkesempatan mendapatkan bonus spesial secara acak seperti tumbler hingga lunch container.</p>
+                <p>Member berkesempatan mendapatkan bonus spesial secara acak seperti tumbler hingga lunch container.
+                </p>
             </div>
         </article>
         <article class="keuntungan-item-kelompok-3">
             <span class="keuntungan-ikon-kelompok-3">⭐</span>
             <div>
                 <h3>Special Services</h3>
-                <p>Member mendapatkan akses ke layanan khusus seperti reservasi area pribadi dan layanan pelanggan yang lebih personal.</p>
+                <p>Member mendapatkan akses ke layanan khusus seperti reservasi area pribadi dan layanan pelanggan yang
+                    lebih personal.</p>
             </div>
         </article>
     </div>
