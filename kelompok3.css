@@ -56,6 +56,20 @@ h1 {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+.logo-kelompok-3 {
+  display: inline-block;
+  max-width: 200px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.img-logo-kelompok-3 {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
 .nav-pills-kelompok-3 {
   display: flex;
   flex-wrap: wrap;
@@ -420,4 +434,60 @@ footer {
 
 .footer-copy-kelompok-3 {
   font-size: 0.9rem;
+}
+
+/* BAGIAN RESERVEASI */
+
+.form-wrapper-kelompok-3 {
+  width: 100%;
+  max-width: 600px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group-kelompok-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label-kelompok-3 {
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: var(--primary-dark);
+}
+
+.form-input-kelompok-3 {
+  padding: 12px;
+  border: 2px solid var(--primary);
+  border-radius: 12px;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-dark);
+  background-color: var(--white);
+  resize: vertical;
+}
+
+.result-container-kelompok-3 {
+  margin-top: 20px;
+  background-color: var(--card-bg);
+  text-align: left;
+  align-items: flex-start;
+  border-left: 6px solid var(--primary-dark);
+  padding: 30px;
+}
+
+i */ .result-grid-kelompok-3 {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 10px;
+  width: 100%;
+  font-family: var(--font-body);
+  color: var(--text-dark);
+  font-size: 1.05rem;
+}
+
+.result-label-kelompok-3 {
+  font-weight: 700;
 }

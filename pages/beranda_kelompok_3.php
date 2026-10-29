@@ -5,8 +5,8 @@
         <span>Satu Cangkir</span><span>Seribu Cerita</span>
     </h2>
     <div class="hero-action-kelompok-3">
-        <a href="#" class="button-kelompok-3 button-light-kelompok-3">Pesan Kopi</a>
-        <a href="#" class="button-kelompok-3 button-outline-light-kelompok-3">Reservasi</a>
+        <a href="kelompok3.php?hal=beli" class="button-kelompok-3 button-light-kelompok-3">Pesan Kopi</a>
+        <a href="kelompok3.php?hal=reservasi" class="button-kelompok-3 button-outline-light-kelompok-3">Reservasi</a>
     </div>
 </section>
 
@@ -18,10 +18,10 @@
     <div class="produk-grid-kelompok-3">
         <article class="produk-card-kelompok-3">
             <img class="produk-foto-kelompok-3"
-                src="https://images.unsplash.com/photo-1761339814820-224e7613fb91?q=70&amp;w=600&amp;auto=format&amp;fit=crop"
+                src="./assets/Guren.jpeg"
                 alt="Secangkir kopi hitam di atas meja marmer" width="600" height="450" loading="lazy" />
             <div class="product-body-kelompok-3">
-                <h3>Es Kopi Susu Gula Aren</h3>
+                <h3>Iced Kospu Guren</h3>
                 <p>
                     Paduan espresso house blend dengan susu creamy dan kemanisan
                     seimbang dari gula aren murni.
@@ -29,24 +29,22 @@
         </article>
         <article class="produk-card-kelompok-3">
             <img class="produk-foto-kelompok-3"
-                src="https://images.unsplash.com/photo-1761339814820-224e7613fb91?q=70&amp;w=600&amp;auto=format&amp;fit=crop"
+                src="./assets/CreamCheese.jpeg"
                 alt="Secangkir kopi hitam di atas meja marmer" width="600" height="450" loading="lazy" />
             <div class="produk-body">
-                <h3>Es Kopi Susu Gula Aren</h3>
+                <h3>Iced Cheezy Latte</h3>
                 <p>
-                    Paduan espresso house blend dengan susu creamy dan kemanisan
-                    seimbang dari gula aren murni.
+                    Paduan Susu dan Krim dengan tambahan keju lokal yang semakin menambah cita rasa.
                 </p>
         </article>
         <article class="produk-card-kelompok-3">
             <img class="produk-foto-kelompok-3"
-                src="https://images.unsplash.com/photo-1761339814820-224e7613fb91?q=70&amp;w=600&amp;auto=format&amp;fit=crop"
+                src="./assets/magic.jpeg"
                 alt="Secangkir kopi hitam di atas meja marmer" width="600" height="450" loading="lazy" />
             <div class="product-body">
-                <h3>Es Kopi Susu Gula Aren</h3>
+                <h3>Magic Seasonal</h3>
                 <p>
-                    Paduan espresso house blend dengan susu creamy dan kemanisan
-                    seimbang dari gula aren murni.
+                    Paduan double ristretto dengan susu dan notes seasonal beans dari berbagai origin dan kisah yang menarik.
                 </p>
         </article>
     </div>
@@ -72,7 +70,7 @@
     </p>
     <div class="promo-grid-kelompok-3">
         <article class="promo-card-kelompok-3">
-            <span class="promo-tag-kelompok-3">Pagi Hari</span>
+            <span class="promo-tag-kelompok-3">KOPAG!!!</span>
             <h3>Paket Kopi & Pastry</h3>
             <p>
                 Nikmati kopi pilihan bersama pastry segar dengan harga spesial
@@ -80,19 +78,17 @@
             </p>
         </article>
         <article class="promo-card-kelompok-3">
-            <span class="promo-tag-kelompok-3">Pagi Hari</span>
+            <span class="promo-tag-kelompok-3">Lunch Hour</span>
             <h3>Paket Kopi & Pastry</h3>
             <p>
-                Nikmati kopi pilihan bersama pastry segar dengan harga spesial
-                untuk memulai hari.
+                Nikmati kopi ataupun menu segar lain bersama dengan savory lunch menu kami.
             </p>
         </article>
         <article class="promo-card-kelompok-3">
-            <span class="promo-tag-kelompok-3">Pagi Hari</span>
+            <span class="promo-tag-kelompok-3">Dinner Services</span>
             <h3>Paket Kopi & Pastry</h3>
             <p>
-                Nikmati kopi pilihan bersama pastry segar dengan harga spesial
-                untuk memulai hari.
+                Nongkrong malam ataupun begadang ditemani kopi kami yang fresh dan berkualitas.
             </p>
         </article>
     </div>
@@ -116,29 +112,26 @@
         <article class="keuntungan-item-kelompok-3">
             <span class="keuntungan-ikon-kelompok-3">⭐</span>
             <div>
-                <h3>Kumpulkan Poin</h3>
-                <p>Setiap pembelian menambah poin yang bisa ditukar dengan minuman
-                    atau pastry.</p>
+                <h3>Special Offers</h3>
+                <p>Member mendapatkan akses eksklusif ke penawaran khusus dan promo menarik.</p>
             </div>
         </article>
         <article class="keuntungan-item-kelompok-3">
             <span class="keuntungan-ikon-kelompok-3">⭐</span>
             <div>
-                <h3>Kumpulkan Poin</h3>
-                <p>Setiap pembelian menambah poin yang bisa ditukar dengan minuman
-                    atau pastry.</p>
+                <h3>Suprise Bonus</h3>
+                <p>Member berkesempatan mendapatkan bonus spesial secara acak seperti tumbler hingga lunch container.</p>
             </div>
         </article>
         <article class="keuntungan-item-kelompok-3">
             <span class="keuntungan-ikon-kelompok-3">⭐</span>
             <div>
-                <h3>Kumpulkan Poin</h3>
-                <p>Setiap pembelian menambah poin yang bisa ditukar dengan minuman
-                    atau pastry.</p>
+                <h3>Special Services</h3>
+                <p>Member mendapatkan akses ke layanan khusus seperti reservasi area pribadi dan layanan pelanggan yang lebih personal.</p>
             </div>
         </article>
     </div>
     <p class="section-action-kelompok-3">
-        <a href="#" class="button-kelompok-3 button-dark-kelompok-3">Join Member</a>
+        <a href="kelompok3.php?hal=member" class="button-kelompok-3 button-dark-kelompok-3">Join Member</a>
     </p>
 </section>

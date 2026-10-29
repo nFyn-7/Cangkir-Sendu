@@ -26,7 +26,7 @@
                 include __DIR__ . "/pages/about-us_kelompok_3.php";
             } else if ($_GET['hal'] == "beli") {
                 include __DIR__ . "/pages/831_beli.php";
-            } else if ($_GET['hal'] == "pembayaran") {
+            } else if ($_GET['hal'] == "reservasi") {
                 include __DIR__ . "/pages/841_reservasi.php";
             } else if ($_GET['hal'] == "member") {
                 include __DIR__ . "/pages/838_member.php";
